@@ -1,2 +1,2 @@
 # SURPAS
-Code repository for SURPAS risk model
+Code repository for SURPAS risk models
